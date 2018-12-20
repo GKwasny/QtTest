@@ -7,4 +7,6 @@ int main(int argc, char *argv[])
     QtTest1 w;
     w.show();
     return a.exec();
+    
+    // feature 3
 }
